@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Sprixvy/Sprixvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Riley** — a developer in progress passionate about building and breaking things.
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🌱 Currently learning **TypeScript**  
+- 🧪 Exploring **QA Testing** and love finding bugs & exploits in games  
+- 🐍 Planning to learn **Python** next  
+- 🎮 Always curious about how systems work (and how they break)  
+- 😄 **Pronouns:** He/Him  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me
+- ✉️ Email: **sprixvy@proton.me**  
+- 💬 Discord: **sprixvy**
+
+Thanks for stopping by!  
